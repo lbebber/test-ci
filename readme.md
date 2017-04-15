@@ -2,4 +2,4 @@
 
 Opa
 
-!(https://travis-ci.org/lbebber/test-ci.svg?branch=master)
+![build status](https://travis-ci.org/lbebber/test-ci.svg?branch=master)
