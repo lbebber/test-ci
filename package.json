@@ -1,0 +1,7 @@
+{
+  "name": "test-ci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lucas Bebber <lucasbbebber@gmail.com>",
+  "license": "MIT"
+}
