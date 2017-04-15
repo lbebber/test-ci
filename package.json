@@ -3,5 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Lucas Bebber <lucasbbebber@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-jest": "^19.0.0",
+    "babel-preset-latest": "^6.24.1",
+    "jest": "^19.0.2"
+  },
+  "scripts":{
+    "test":"jest"
+  }
 }
